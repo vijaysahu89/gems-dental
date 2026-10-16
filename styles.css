@@ -363,8 +363,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   .hero{
     height:auto !important;
     min-height:auto !important;
-    padding-top:170px !important;
-    padding-bottom:45px !important;
+    padding-top:80px !important;
+    padding-bottom:30px !important;
     margin-bottom:0 !important;
     display:flex !important;
     flex-direction:column !important;
@@ -378,7 +378,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   /* Hero Background Image Alignment */
   .hero-bg{
     background-size:cover !important;
-    background-position:center 40% !important;
+    background-position:70% center !important;
   }
 
   .hero-overlay{
@@ -386,8 +386,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   }
 
   .hero-content{
-    max-width:100% !important;
-    padding:1.5rem 1rem !important;
+    max-width:85% !important;
+    padding:1rem 1rem 1rem 1rem !important;
     text-align:left !important;
     margin:0 !important;
   }
@@ -411,7 +411,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   .hero-description {
       font-size: 0.88rem !important;
       line-height: 1.45 !important;
-      max-width: 100% !important;
+      max-width: 85% !important;
       margin: 0 0 18px 0 !important;
       text-align: left !important;
   }
@@ -420,10 +420,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   .badge {
       font-size: 0.78rem !important;
       padding: 6px 14px !important;
-      margin-top: 40px !important;
+      margin-top: 0 !important;
       margin-bottom: 12px !important;
       margin-left: 0 !important;
       margin-right: auto !important;
+      max-width: 85% !important;
       overflow: visible !important;
       text-align: left !important;
   }
