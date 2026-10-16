@@ -378,11 +378,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   /* Hero Background Image Alignment */
   .hero-bg{
     background-size:cover !important;
-    background-position:center 22% !important;
+    background-position:center 40% !important;
   }
 
   .hero-overlay{
-    background:linear-gradient(180deg, rgba(11,23,42,0.65) 0%, rgba(11,23,42,0.88) 45%, rgba(11,23,42,0.96) 100%) !important;
+    background:linear-gradient(180deg, rgba(11,23,42,0.35) 0%, rgba(11,23,42,0.80) 40%, rgba(11,23,42,0.96) 100%) !important;
   }
 
   .hero-content{
@@ -420,7 +420,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   .badge {
       font-size: 0.78rem !important;
       padding: 6px 14px !important;
-      margin-top: 10px !important;
+      margin-top: 40px !important;
       margin-bottom: 12px !important;
       margin-left: 0 !important;
       margin-right: auto !important;
