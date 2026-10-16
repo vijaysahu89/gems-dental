@@ -363,7 +363,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   .hero{
     height:auto !important;
     min-height:auto !important;
-    padding-top:110px !important;
+    padding-top:170px !important;
     padding-bottom:45px !important;
     margin-bottom:0 !important;
     display:flex !important;
@@ -378,7 +378,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
   /* Hero Background Image Alignment */
   .hero-bg{
     background-size:cover !important;
-    background-position:center top !important;
+    background-position:center 22% !important;
   }
 
   .hero-overlay{
